@@ -1,0 +1,12 @@
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnement virtuel
+venv/
+.env
+
+# Fichiers de configuration d'éditeur
+*.vscode/
