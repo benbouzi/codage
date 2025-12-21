@@ -1,0 +1,35 @@
+[
+  {
+    "interview_id": "workforce_001",
+    "participant_group": "workforce",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: concerns about job displacement AI helps with scheduling and calendar management need for AI training and upskilling AI-powered data analysis tools using AI for email automation\n\nInterviewer: What are your main concerns?\n\nParticipant: AI helps with scheduling and calendar management",
+    "metadata": {
+      "interview_date": "2024-08-02",
+      "duration_minutes": 43,
+      "consent": true
+    },
+    "transcript_length": 342
+  },
+  {
+    "interview_id": "workforce_002",
+    "participant_group": "workforce",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: AI-powered data analysis tools using AI for email automation concerns about job displacement\n\nInterviewer: What are your main concerns?\n\nParticipant: concerns about job displacement",
+    "metadata": {
+      "interview_date": "2024-02-23",
+      "duration_minutes": 41,
+      "consent": true
+    },
+    "transcript_length": 240
+  },
+  {
+    "interview_id": "workforce_003",
+    "participant_group": "workforce",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: need for AI training and upskilling using AI for email automation incorporating AI into daily workflow\n\nInterviewer: What are your main concerns?\n\nParticipant: need for AI training and upskilling",
+    "metadata": {
+      "interview_date": "2024-08-12",
+      "duration_minutes": 43,
+      "consent": true
+    },
+    "transcript_length": 254
+  }
+]

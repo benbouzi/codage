@@ -1,0 +1,24 @@
+[
+  {
+    "interview_id": "scientists_001",
+    "participant_group": "scientists",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: using AI for literature review and paper search concerns about AI bias in research AI accelerates research and data analysis AI models for experimental predictions collaboration between human scientists and AI\n\nInterviewer: What are your main concerns?\n\nParticipant: collaboration between human scientists and AI",
+    "metadata": {
+      "interview_date": "2024-09-18",
+      "duration_minutes": 15,
+      "consent": true
+    },
+    "transcript_length": 371
+  },
+  {
+    "interview_id": "scientists_002",
+    "participant_group": "scientists",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: concerns about AI bias in research collaboration between human scientists and AI AI models for experimental predictions\n\nInterviewer: What are your main concerns?\n\nParticipant: AI models for experimental predictions",
+    "metadata": {
+      "interview_date": "2024-12-01",
+      "duration_minutes": 18,
+      "consent": true
+    },
+    "transcript_length": 274
+  }
+]

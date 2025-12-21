@@ -1,0 +1,35 @@
+[
+  {
+    "interview_id": "creatives_001",
+    "participant_group": "creatives",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: ethical considerations in AI-generated art AI as creative assistant for brainstorming concerns about AI replacing creative jobs balance between AI assistance and human creativity AI helps overcome creative blocks\n\nInterviewer: What are your main concerns?\n\nParticipant: ethical considerations in AI-generated art",
+    "metadata": {
+      "interview_date": "2024-01-07",
+      "duration_minutes": 20,
+      "consent": true
+    },
+    "transcript_length": 371
+  },
+  {
+    "interview_id": "creatives_002",
+    "participant_group": "creatives",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: AI for content generation and writing concerns about AI replacing creative jobs balance between AI assistance and human creativity ethical considerations in AI-generated art\n\nInterviewer: What are your main concerns?\n\nParticipant: ethical considerations in AI-generated art",
+    "metadata": {
+      "interview_date": "2024-11-11",
+      "duration_minutes": 18,
+      "consent": true
+    },
+    "transcript_length": 332
+  },
+  {
+    "interview_id": "creatives_003",
+    "participant_group": "creatives",
+    "transcript": "Interviewer: How do you use AI in your work?\n\nParticipant: ethical considerations in AI-generated art AI as creative assistant for brainstorming AI for content generation and writing using AI for image generation and editing AI helps overcome creative blocks\n\nInterviewer: What are your main concerns?\n\nParticipant: AI helps overcome creative blocks",
+    "metadata": {
+      "interview_date": "2024-02-09",
+      "duration_minutes": 37,
+      "consent": true
+    },
+    "transcript_length": 349
+  }
+]
